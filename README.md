@@ -1,67 +1,153 @@
-<!-- Top Header Banner -->
-<!-- p align="center">
-  <img src="header.png" alt="Vidumini Rajapaksha Header" width="100%" />
-</p -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vidumini-rajapaksha/"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ViduminiRajapaksha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:viduminirajapaksha02@gmail.com"><img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<div align="center">
+
+# Hi there, I'm Ashmi! 👋
+
+### Data Science Undergraduate | Aspiring AI/ML Engineer
+
+*Turning data into meaningful insights and intelligent solutions.*
+
+<p>
+  <a href="https://www.linkedin.com/in/ashmi-abesekara">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AshmiAbesekara">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ashmiabesekara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+</div>
 
 ---
 
 ### ✦ About Me
 
-I am a third-year undergraduate specializing in **Artificial Intelligence** at the **Sri Lanka Institute of Information Technology (SLIIT)**. I focus on developing AI-powered software solutions and scalable full-stack applications, bridging machine learning models with robust backend APIs.
+I'm a **third-year Information Technology undergraduate specializing in Data Science** at the **Sri Lanka Institute of Information Technology (SLIIT)**.
 
-- 📍 Based in **Gampaha, Sri Lanka**
-- 🎓 Pursuing **B.Sc. (Hons) in Information Technology (Specializing in AI)**
-- 💡 Exploring **LLM integrations, agentic workflows, LangChain, and production-ready APIs**
-- 🎯 Actively seeking opportunities as an **AI Engineering and AI/ML Engineering Intern**
+I'm passionate about **Machine Learning, Artificial Intelligence, Data Analytics, and Software Development**. I enjoy transforming real-world problems into data-driven solutions by combining statistical analysis, predictive modeling, and practical software development.
+
+Through academic and collaborative projects, I've gained hands-on experience in data preprocessing, machine learning, statistical modeling, database management, and full-stack application development.
+
+- 🎓 **Education:** B.Sc. (Hons) in Information Technology — Data Science
+- 📍 **Location:** Sri Lanka
+- 🤖 **Interests:** Machine Learning, AI, Predictive Analytics & Intelligent Applications
+- 🌱 **Currently Learning:** Advanced Machine Learning, Generative AI & AI-powered Application Development
+- 🎯 **Career Goal:** Seeking internship opportunities in Data Science, AI/ML Engineering & Data Analytics
+- 🤝 **Open To:** Collaborative projects, research opportunities & innovative AI solutions
 
 ---
 
-### 🛠 Technical Ecosystem
+### 🛠 Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=61DAFB" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+#### 💻 Programming Languages
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-1C3C3C?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,r,html,css" />
 </p>
 
+#### 🤖 Machine Learning & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
+</p>
+
+**Core Skills:**
+- Data Preprocessing & Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Statistical Modeling & Hypothesis Testing
+- Regression & Classification
+- Clustering & Dimensionality Reduction
+- Model Evaluation & Cross-Validation
+- Data Visualization & Predictive Analytics
+
+#### 🌐 Web Development & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,spring" />
+</p>
+
+#### 🗄 Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+</p>
+
+**Additional Tools:** Power BI, SQL Server, RStudio, Jupyter Notebook, Pandas, NumPy, Matplotlib
+
 ---
 
-### 🔭 Current Focus & Collaboration
+### 🚀 Featured Projects
 
-- 🧠 **Deepening Knowledge:** Building intelligent agents using LangChain and exploring LLM evaluation strategies.
-- 🤝 **Open to Collaborate On:** AI-driven products, full-stack web applications, and intelligent API backends.
-- 💬 **Ask Me About:** Python development, Machine Learning models, REST API design, and modern web architectures.
+#### 🌍 EARTHTRACE — Earth Environmental Data Analysis
+
+**Technologies:** Python, FastAPI, React, Firebase, NASA Earth Science Data
+
+- Developing a collaborative Earth science analysis platform inspired by the NASA Space Apps Challenge.
+- Working with environmental datasets including temperature, precipitation, and soil moisture.
+- Building AI-assisted backend functionality for location-based environmental analysis.
+- Supporting data-driven exploration of environmental changes over time.
+
+#### 🚗 Automobile Price Analysis & Prediction
+
+**Technologies:** Python, R, Scikit-learn, Statistical Modeling
+
+- Analyzed real-world used-car datasets to identify key factors influencing vehicle prices.
+- Applied data cleaning, feature engineering, and exploratory data analysis.
+- Developed and evaluated regression models, including Random Forest.
+- Used statistical analysis and model evaluation metrics to support pricing insights.
+
+#### 📊 Data Warehousing & Business Intelligence
+
+**Technologies:** SQL Server, ETL, Power BI, SQL
+
+- Designed a data warehouse using an e-commerce dataset.
+- Implemented dimensional modeling with fact and dimension tables.
+- Worked with ETL processes to transform data for analytical reporting.
+- Developed business intelligence visualizations and analytical insights.
+
+#### 💻 University Help Desk System
+
+**Technologies:** Java, Spring Boot, React, Node.js, MongoDB
+
+- Contributed to the development of a university help desk application.
+- Worked on FAQ management and user-support functionality.
+- Gained experience in REST APIs, database operations, and full-stack development.
 
 ---
 
-<!-- Bottom Footer Banner -->
-<!--p align="center">
-  <img src="footer.png" alt="Footer Banner" width="100%" />
-</p -->
+### 🔭 Currently Exploring
+
+- 🧠 Machine Learning & Predictive Modeling
+- 🤖 Generative AI and LLM-based Applications
+- 📊 Data Analytics & Business Intelligence
+- 🌍 Environmental Data Analysis
+- ⚡ AI-powered APIs and Intelligent Web Applications
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AshmiAbesekara&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmiAbesekara&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always interested in learning, collaborating, and contributing to meaningful technology projects.
+
+Feel free to connect with me for **Data Science, Machine Learning, AI, and Software Development opportunities**.
+
+<div align="center">
+
+**Thanks for visiting my profile! 💙**
+
+</div>
