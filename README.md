@@ -1,153 +1,256 @@
 
 <div align="center">
 
-# Hi there, I'm Ashmi! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:22D3EE&height=220&section=header&text=ASHMI%20ABESEKARA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 
-### Data Science Undergraduate | Aspiring AI/ML Engineer
+<br/>
 
-*Turning data into meaningful insights and intelligent solutions.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Ashmi+%F0%9F%91%8B;Data+Science+Undergraduate+%40+SLIIT;Aspiring+AI+%26+Machine+Learning+Engineer;Turning+Data+Into+Intelligent+Solutions" alt="Typing Animation" />
 
-<p>
-  <a href="https://www.linkedin.com/in/ashmi-abesekara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AshmiAbesekara">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:ashmiabesekara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-</div>
+<a href="https://www.linkedin.com/in/ashmi-abesekara">
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/AshmiAbesekara">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:ashmiabesekara@gmail.com">
+<img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br/><br/>
 
-### ✦ About Me
-
-I'm a **third-year Information Technology undergraduate specializing in Data Science** at the **Sri Lanka Institute of Information Technology (SLIIT)**.
-
-I'm passionate about **Machine Learning, Artificial Intelligence, Data Analytics, and Software Development**. I enjoy transforming real-world problems into data-driven solutions by combining statistical analysis, predictive modeling, and practical software development.
-
-Through academic and collaborative projects, I've gained hands-on experience in data preprocessing, machine learning, statistical modeling, database management, and full-stack application development.
-
-- 🎓 **Education:** B.Sc. (Hons) in Information Technology — Data Science
-- 📍 **Location:** Sri Lanka
-- 🤖 **Interests:** Machine Learning, AI, Predictive Analytics & Intelligent Applications
-- 🌱 **Currently Learning:** Advanced Machine Learning, Generative AI & AI-powered Application Development
-- 🎯 **Career Goal:** Seeking internship opportunities in Data Science, AI/ML Engineering & Data Analytics
-- 🤝 **Open To:** Collaborative projects, research opportunities & innovative AI solutions
-
----
-
-### 🛠 Technical Skills
-
-#### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,r,html,css" />
-</p>
-
-#### 🤖 Machine Learning & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
-</p>
-
-**Core Skills:**
-- Data Preprocessing & Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Statistical Modeling & Hypothesis Testing
-- Regression & Classification
-- Clustering & Dimensionality Reduction
-- Model Evaluation & Cross-Validation
-- Data Visualization & Predictive Analytics
-
-#### 🌐 Web Development & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,spring" />
-</p>
-
-#### 🗄 Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
-</p>
-
-**Additional Tools:** Power BI, SQL Server, RStudio, Jupyter Notebook, Pandas, NumPy, Matplotlib
-
----
-
-### 🚀 Featured Projects
-
-#### 🌍 EARTHTRACE — Earth Environmental Data Analysis
-
-**Technologies:** Python, FastAPI, React, Firebase, NASA Earth Science Data
-
-- Developing a collaborative Earth science analysis platform inspired by the NASA Space Apps Challenge.
-- Working with environmental datasets including temperature, precipitation, and soil moisture.
-- Building AI-assisted backend functionality for location-based environmental analysis.
-- Supporting data-driven exploration of environmental changes over time.
-
-#### 🚗 Automobile Price Analysis & Prediction
-
-**Technologies:** Python, R, Scikit-learn, Statistical Modeling
-
-- Analyzed real-world used-car datasets to identify key factors influencing vehicle prices.
-- Applied data cleaning, feature engineering, and exploratory data analysis.
-- Developed and evaluated regression models, including Random Forest.
-- Used statistical analysis and model evaluation metrics to support pricing insights.
-
-#### 📊 Data Warehousing & Business Intelligence
-
-**Technologies:** SQL Server, ETL, Power BI, SQL
-
-- Designed a data warehouse using an e-commerce dataset.
-- Implemented dimensional modeling with fact and dimension tables.
-- Worked with ETL processes to transform data for analytical reporting.
-- Developed business intelligence visualizations and analytical insights.
-
-#### 💻 University Help Desk System
-
-**Technologies:** Java, Spring Boot, React, Node.js, MongoDB
-
-- Contributed to the development of a university help desk application.
-- Worked on FAQ management and user-support functionality.
-- Gained experience in REST APIs, database operations, and full-stack development.
-
----
-
-### 🔭 Currently Exploring
-
-- 🧠 Machine Learning & Predictive Modeling
-- 🤖 Generative AI and LLM-based Applications
-- 📊 Data Analytics & Business Intelligence
-- 🌍 Environmental Data Analysis
-- ⚡ AI-powered APIs and Intelligent Web Applications
-
----
-
-### 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AshmiAbesekara&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmiAbesekara&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://komarev.com/ghpvc/?username=AshmiAbesekara&label=Profile%20Views&color=7C3AED&style=flat-square"/>
 
 </div>
 
 ---
 
-### 🤝 Let's Connect!
+<h2 align="center">✦ About Me</h2>
 
-I'm always interested in learning, collaborating, and contributing to meaningful technology projects.
+```python
+class Ashmi:
+    education = "BSc (Hons) IT - Data Science"
+    university = "SLIIT"
+    year = "Third Year"
+    location = "Sri Lanka"
 
-Feel free to connect with me for **Data Science, Machine Learning, AI, and Software Development opportunities**.
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Predictive Analytics",
+        "Intelligent Applications"
+    ]
+
+    career_goal = "AI/ML & Data Science Internship"
+
+    motto = "Learn. Build. Analyze. Innovate."
+```
+
+I'm a **third-year Data Science undergraduate at SLIIT**, passionate about exploring the intersection of **Artificial Intelligence, Machine Learning, and Software Engineering**.
+
+I love transforming complex datasets into meaningful insights and building intelligent applications that solve real-world problems.
+
+- 🔭 Currently working on **AI-powered applications and environmental data analysis**
+- 🌱 Learning more about **Generative AI, LLMs and advanced Machine Learning**
+- 📊 Interested in **Predictive Modeling, Statistical Analysis and Data Visualization**
+- 🤝 Open to collaborating on **AI, Data Science and Full-Stack projects**
+- 🎯 Seeking **AI/ML Engineering and Data Science internship opportunities**
+- ⚡ I believe the best way to learn technology is to build with it!
+
+---
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <div align="center">
 
-**Thanks for visiting my profile! 💙**
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,r,java,js,html,css&theme=dark" />
+
+<br/>
+
+### AI, Machine Learning & Data Science
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br/>
+
+### Frameworks & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,spring&theme=dark" />
+
+<br/>
+
+### Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white"/>
+
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 EARTHTRACE
+
+**Earth Environmental Intelligence Platform**
+
+An AI-assisted environmental analysis platform using NASA Earth science datasets.
+
+**Highlights**
+- Temperature, precipitation & soil moisture analysis
+- Location-based environmental insights
+- AI-assisted analysis APIs
+- Collaborative full-stack development
+
+`Python` `FastAPI` `React` `Firebase`
+
+**Status:** In Development
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Automobile Price Analysis
+
+**Statistical Modeling & Price Prediction**
+
+A data-driven analysis of used-car pricing using statistical methods and predictive models.
+
+**Highlights**
+- Data preprocessing & feature engineering
+- Exploratory data analysis
+- Random Forest regression
+- Model evaluation & statistical insights
+
+`Python` `R` `Scikit-learn` `Statistics`
+
+**Status:** Academic Project
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 E-Commerce Data Warehouse
+
+**Business Intelligence & Analytics**
+
+A data warehousing solution for analyzing e-commerce transactions and business performance.
+
+**Highlights**
+- Dimensional data modeling
+- ETL pipeline development
+- SQL-based data analysis
+- Interactive Power BI reporting
+
+`SQL Server` `ETL` `Power BI`
+
+**Status:** Academic Project
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 University Help Desk
+
+**Full-Stack Web Application**
+
+A university support platform with FAQ management and backend functionality.
+
+**Highlights**
+- FAQ and category management
+- REST API development
+- Database integration
+- Full-stack application development
+
+`Java` `React` `Node.js` `MongoDB`
+
+**Status:** Academic Project
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AshmiAbesekara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=FFFFFF" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshmiAbesekara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AshmiAbesekara&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<div align="center">
+
+| Field | Focus |
+|:---:|:---|
+| 🤖 Artificial Intelligence | AI-powered applications & LLMs |
+| 🧠 Machine Learning | Predictive models & evaluation |
+| 📊 Data Science | Analytics & statistical modeling |
+| 🌍 Environmental Analytics | Earth science data exploration |
+| ⚙️ Software Engineering | Backend APIs & full-stack development |
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshmiAbesekara&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<h2 align="center">💌 Let's Connect</h2>
+
+<div align="center">
+
+I'm excited to connect with people who are passionate about
+**Data Science, AI, Machine Learning and innovative technology.**
+
+Whether it's a project collaboration, an internship opportunity,
+or a conversation about technology, feel free to reach out!
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ashmi-abesekara">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ✨ "Transforming curiosity into code and data into impact."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6D28D9,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
